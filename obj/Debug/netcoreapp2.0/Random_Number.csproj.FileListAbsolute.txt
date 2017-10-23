@@ -1,0 +1,10 @@
+C:\Users\10012280\desktop\Random_Number\obj\Debug\netcoreapp2.0\Random_Number.csproj.CoreCompileInputs.cache
+C:\Users\10012280\desktop\Random_Number\obj\Debug\netcoreapp2.0\Random_Number.AssemblyInfoInputs.cache
+C:\Users\10012280\desktop\Random_Number\obj\Debug\netcoreapp2.0\Random_Number.AssemblyInfo.cs
+C:\Users\10012280\desktop\Random_Number\bin\Debug\netcoreapp2.0\Random_Number.deps.json
+C:\Users\10012280\desktop\Random_Number\bin\Debug\netcoreapp2.0\Random_Number.runtimeconfig.json
+C:\Users\10012280\desktop\Random_Number\bin\Debug\netcoreapp2.0\Random_Number.runtimeconfig.dev.json
+C:\Users\10012280\desktop\Random_Number\bin\Debug\netcoreapp2.0\Random_Number.dll
+C:\Users\10012280\desktop\Random_Number\bin\Debug\netcoreapp2.0\Random_Number.pdb
+C:\Users\10012280\desktop\Random_Number\obj\Debug\netcoreapp2.0\Random_Number.dll
+C:\Users\10012280\desktop\Random_Number\obj\Debug\netcoreapp2.0\Random_Number.pdb
